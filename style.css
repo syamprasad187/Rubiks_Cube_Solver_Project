@@ -1,0 +1,15 @@
+ body {
+      font-family: sans-serif;
+      text-align: center;
+      background: #121212;
+      color: white;
+    }
+    #cube-container {
+      width: 100vw;
+      height: 80vh;
+    }
+    input, button {
+      margin: 0.5rem;
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
