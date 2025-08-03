@@ -34,7 +34,7 @@ A 3D interactive Rubik's Cube simulator and solver built using **Three.js** (Jav
 ---
 
 ## 📂 Folder Structure
-``
+```bash
 Rubiks_Cube_Solver_Project/
 │
 ├── index.html # Main HTML interface
@@ -43,7 +43,7 @@ Rubiks_Cube_Solver_Project/
 ├── solver.py # Python script for solving logic
 ├── .gitignore # Git ignore rules for Python and Web
 └── README.md # Project documentation
-``
+```
 
 
 ---
